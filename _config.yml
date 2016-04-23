@@ -1,0 +1,28 @@
+name: greenmoneymatters
+favicon: null
+layout_spectrum: 0.9504358496051282
+typography_spectrum: 0.21683680661953986
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6593746037688106
+  lightness: 0.3708123618271202
+  saturation: 0.7745065814815462
+  rhythmicContrast: 0.4382528583519161
+purpose: []
