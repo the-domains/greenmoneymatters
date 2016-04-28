@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Welcome to GreenMoneyMatters. You have questions. We have answers. We'll connect you to folks in finance, insurance and real estate from your local area. "
-datePublished: '2016-04-28T21:47:05.070Z'
-dateModified: '2016-04-28T21:45:30.346Z'
+description: " You have questions. We have answers. We'll connect you to folks in finance, insurance and real estate from your local area. "
+datePublished: '2016-04-28T21:53:28.882Z'
+dateModified: '2016-04-28T21:52:28.688Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-welcome-to-greenmoneymatters-you-have-questions-we-have-an.md
@@ -17,12 +17,12 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: welcome-to-greenmoneymatters-you-have-questions-we-have-an/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afb6c228-a2a8-494d-9124-b81fb7b0a295.png)
+**Welcome to GreenMoneyMatters.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daa5ec8e-93d8-41a9-80ac-0ab9f64dc606.png)
 
-Welcome to GreenMoneyMatters. You have questions. We have answers. We'll connect you to folks in finance, insurance and real estate from your local area.
+You have questions. We have answers. We'll connect you to folks in finance, insurance and real estate from your local area.
